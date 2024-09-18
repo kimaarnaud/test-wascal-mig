@@ -1,0 +1,10 @@
+flask
+streamlit
+plotly
+streamlit-option-menu
+geopandas
+matplotlib
+joblib
+xgboost
+
+
